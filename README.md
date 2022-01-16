@@ -1,5 +1,6 @@
 # Simple-Programming-Language
-The following is a simple programming language abiding by specific EBNF notation and implemented through the means of a lexical analyzer, parser, and interpreter.  “lex.h’, “lex.cpp”, “val.h”,  “val.cpp”,  “parseInt.h”, “parseInt.cpp”, and EBNF rules supplied by Bassel Arafeh (NJIT/CS280).
+This repository contains a lexical analyzer, recursive-descent parser, and interpreter for a declarative programming language created by Bassel Arafeh (NJIT/CS280). 
+“lex.h’, “lex.cpp”, “val.h”,  “val.cpp”,  “parseInt.h”, “parseInt.cpp”, and EBNF rules supplied by Bassel Arafeh (NJIT/CS280).
 
 ***EBNF Notations:***
 - Prog ::= PROGRAM IDENT StmtList END PROGRAM  
