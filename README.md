@@ -1,4 +1,4 @@
-# Simple-Programming-Language
+# Simple Programming Language
 This repository contains a lexical analyzer, recursive-descent parser, and interpreter for a declarative programming language created by Bassel Arafeh (NJIT/CS280). 
 “lex.h’, “lex.cpp”, “val.h”,  “val.cpp”,  “parseInt.h”, “parseInt.cpp”, and EBNF rules supplied by Bassel Arafeh (NJIT/CS280).
 
